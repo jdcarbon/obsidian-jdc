@@ -1,0 +1,18 @@
+- [ ] Dune - Frank Herbert
+- [ ] The Dispossessed - Ursula K. Le Guin
+- [ ] All the Birds in the Sky - Charlie Jane Anders
+- [ ] Cloud Atlas - David Mitchell
+- [ ] Kindred - Octavia Butler
+- [ ] The Buried Giant - Kazuo Ishiguro
+- [ ] Piranesi - Susanna Clarke
+- [ ] The Earthsea Cycle - Ursula K. Le Guin
+- [ ] Gormenghast - Mervyn Peake
+- [ ] The Left Hand of Darkness - Ursula K. Le Guin
+- [ ] Slaughterhouse-Five - Kurt Vonnegut
+- [ ] Hard-Boiled Wonderland and the End of the World - Haruki Marakami
+- [ ] The Book of the New Sun - Gene Wolfe
+- [ ] The Road - Cormac McCarthy
+- [ ] The Raven Tower - Ann Leckie
+- [ ] The Curse of Chalion - Lois McMaster Bujold
+- [ ] Rakesfall - Vajra Chandrasekera
+- [ ] 

@@ -1,0 +1,50 @@
+- Short chapters (400-500 words)
+- Short paragraphs, lots of white space
+- Illustrations every 2-3 paragraphs 
+
+## Recurring gags
+- Desire for brains
+- Broken body parts
+- Zombie funk
+- Cold hands/skin
+- Pale coloring
+- Accidents
+- PE disasters
+- Girl disasters
+
+## Book Template
+- Monday - "Something is Off"
+	- Ordinary school/life moment
+	- Something new goes wrong
+	- Small fix tried
+	- Doesn't work
+	- Joe realizes problem
+- Tuesday - "Rules & Workarounds"
+	- Document the problem
+	- Attempts a workaround/fix
+	- Involves a team member
+	- Partial success
+	- New complication
+- Wednesday - "Exposure Risk"
+	- School or public setting
+	- Joe almost exposed
+	- Forced to use zombie ability or lie
+	- Someone notices something
+	- Attention increases
+- Thursday - "The Threat Shows Its Hand"
+	- Antagonist pressure
+	- Joe learns a truth
+	- Choice between safety or honesty
+	- Joe chooses poorly
+	- Consequences are coming
+- Friday - "Cost"
+	- Personal cost
+	- Joe takes responsibility
+	- Status quo changes
+	- Weekend stakes established
+- Weekend - "Point of No Return"
+	- Big kid-driven plan
+	- No adult rescue
+	- Joe makes an active choice
+	- New normal established
+	- Hook question for next book

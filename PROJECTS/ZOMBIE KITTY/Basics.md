@@ -1,0 +1,1 @@
+Each book will cover one week in Joe's life as he learns to deal with turning into a zombie, starting middle school, and being at a new school/city—all the while making friends, hiding his zombie-ness from adults, evading the creator of the zombie virus, and eventually hiding from a secret government agency.

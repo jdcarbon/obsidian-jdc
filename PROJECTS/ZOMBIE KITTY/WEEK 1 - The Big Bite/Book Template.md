@@ -1,0 +1,41 @@
+Monday - "Something is Off"
+	- Scream in mirror
+	- Flashback to bite
+	- Notices changes in bathroom (no pulse/pale)
+	- Skip breakfast - stinky
+	- Bus to school - meet Steven - cold hands
+	- Dinnertime, doesn't want veggies at all, only meat
+	- Sees ZK through window, takes out trash to give chase
+- Tuesday - "Rules & Workarounds"
+	- Starts list of zombie symptoms
+	- Starts zombification meter
+	- Makeup tutorials to look less zombie
+	- Meets crew at lunch
+	- Crew notices that he's weirdly cold, Steven defends
+	- Meets Cat, is over confident because of makeup, she notes that it looks weird
+- Wednesday - "Exposure Risk"
+	- PE Class
+	- Joe changes in in bathroom instead of locker
+	- Called out by coach for being last one out
+	- Called out by coach for being slowest in the mile, but Joe realizes that while he can't run fast, he never gets tired
+	- Pull ups Friday - warning from coach
+	- While walking home from bus, notices obvious scientist (looks like female mad scientist), is looking for something
+- Thursday - "The Threat Shows Its Hand"
+	- Beginning of the year assembly
+	- Steven notices a smell
+	- Joe runs out and goes to bathroom to spray, ends up in girls room
+	- Cat catches him coming out, asks what's going on, he lies, says he was getting away from the crowds, and wasn't in the girls bathroom, just that he saw some grafiti on the door that he was wiping off
+	- His science teacher hears him, and says he must like to help out, that he can help with a scientist coming to speak at the school, shows him a picture, it's the mad scientist
+- Friday - "Cost"
+	- Steven invites Joe over to spend the night
+	- Joe says no because he's afraid => hurts Steven's feelings
+	- Joe calls in the evening and says he can come over
+	- While having a Nerf gun battle, Joe's pinkie is injured (obviously broken), Steven starts to freak out and Joe has to tell him
+	- Steven accepts him and becomes his supporter
+- Weekend - "Point of No Return"
+	- Joe plans to investigate the scientist
+	- Sneaks into back yard and sees pet bowls
+	- Looks in the trash and sees some papers
+	- Grabs one paper but can't get more, b/c he hears the scientist opening the door
+	- Goes back home and tries to puzzle out the paper
+	- Sits down to draw a plan to catch the ZK

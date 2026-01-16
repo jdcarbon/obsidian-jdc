@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "052c978cd408c791",
+    "type": "split",
+    "children": [
+      {
+        "id": "409859e9fda80c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96be69be8fb4edf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Aftermath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Aftermath"
+            }
+          },
+          {
+            "id": "56ee8cd975487650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dac17ed5b2aabaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "da296cb0e01801f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175a1f30c4694647",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfa2d2bd0bef797c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27bb7555d3d0a75f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e0157986d5a45506",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5403af5a69641424",
+    "type": "split",
+    "children": [
+      {
+        "id": "708fbced90104fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104ea0fdd42f90e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/Outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Outline"
+            }
+          },
+          {
+            "id": "6a98300a6bdcdfc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5077b692447f7c8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b0f30f715070b0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROJECTS/WGU/scratch pad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of scratch pad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "56ee8cd975487650",
+  "lastOpenFiles": [
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Aftermath.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Bite.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Scream.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Prologe.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/Outline.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Index.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/α/Zombie Kitty Chronicles - The Big Bite α/Index.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/α/Zombie Kitty Chronicles - The Big Bite α",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/α",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/V1.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/Book Template.md",
+    "PROJECTS/ZOMBIE KITTY/Book Template.md",
+    "PROJECTS/ZOMBIE KITTY/Series Bible - One Page.md",
+    "PROJECTS/ZOMBIE KITTY/Basics.md",
+    "NOTES/Books to read.md",
+    "NOTES",
+    "Untitled.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite",
+    "PROJECTS/ZOMBIE KITTY/Untitled.md",
+    "PROJECTS/STAX/Site update.md",
+    "PROJECTS/STAX",
+    "GOALS/Processes.md",
+    "PROJECTS/ZOMBIE KITTY",
+    "GOALS",
+    "PROJECTS/CLARITY TO RISE/scratch pad.md",
+    "PROJECTS/BDI/scratchpad.md",
+    "PROJECTS/BUNKER/scratch pad.md",
+    "PROJECTS/CHIC SHOOTS/scratch pad.md",
+    "PROJECTS/WGU/scratch pad.md",
+    "PROJECTS/CLOUD",
+    "PROJECTS/WGU",
+    "PROJECTS/Untitled.md",
+    "Welcome.md"
+  ]
+}
