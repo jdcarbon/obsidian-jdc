@@ -6,6 +6,31 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-01-21T19:13:04.541Z",
+      "total": 1013,
+      "drafts": {
+        "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Index.md": {
+          "total": 1013,
+          "scenes": {
+            "Prologue": 90,
+            "Monday": 0,
+            "The Scream": 0,
+            "The Bite": 0,
+            "The Aftermath": 0,
+            "Breakfast": 0,
+            "Steven": 0,
+            "First Day": 0,
+            "Dinner": 0,
+            "Zombie Kitty": 0,
+            "Tuesday": 0,
+            "Notes": 228,
+            "Makeup?": 468,
+            "Results": 227
+          }
+        }
+      }
+    },
+    {
       "start": "2026-01-20T22:31:30.356Z",
       "total": 2065,
       "drafts": {
@@ -64,6 +89,13 @@
       "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
       "steps": [
         {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$1",
+            "separator": "\n\n"
+          }
+        },
+        {
           "id": "strip-frontmatter",
           "optionValues": {}
         },
@@ -75,16 +107,9 @@
           }
         },
         {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
-          }
-        },
-        {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
+            "separator": "\\n\\n"
           }
         },
         {

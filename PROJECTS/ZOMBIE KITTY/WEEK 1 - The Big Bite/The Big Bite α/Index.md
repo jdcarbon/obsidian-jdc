@@ -5,14 +5,19 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Prologe
-    - The Scream
-    - The Bite
-    - The Aftermath
-    - Breakfast
-    - Steven
-    - First Day
-    - Dinner
-    - Zombie Kitty
+    - Prologue
+    - Monday
+    - - The Scream
+      - The Bite
+      - The Aftermath
+      - Breakfast
+      - Steven
+      - First Day
+      - Dinner
+      - Zombie Kitty
+    - Tuesday
+    - - Notes
+      - Makeup?
+      - Results
   ignoredFiles: []
 ---

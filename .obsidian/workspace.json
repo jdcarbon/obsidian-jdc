@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96be69be8fb4edf0",
+            "id": "88daf6af88834bca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Zombie Kitty.md",
+                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zombie Kitty"
+              "title": "Results"
             }
           },
           {
-            "id": "56ee8cd975487650",
+            "id": "ee94c36167a9a691",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,18 +194,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "96be69be8fb4edf0",
+  "active": "e0157986d5a45506",
   "lastOpenFiles": [
-    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Dinner.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Makeup?.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Results.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Notes.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/Outline.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Tuesday.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Monday.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/manuscript.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Zombie Kitty.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Dinner.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/First Day.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Steven.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Breakfast.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Aftermath.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Bite.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Scream.md",
-    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Prologe.md",
-    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/Outline.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Prologue.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Index.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/α/Zombie Kitty Chronicles - The Big Bite α/Index.md",
@@ -221,15 +227,9 @@
     "Untitled.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite",
     "PROJECTS/ZOMBIE KITTY/Untitled.md",
-    "PROJECTS/STAX/Site update.md",
     "PROJECTS/STAX",
-    "GOALS/Processes.md",
     "PROJECTS/ZOMBIE KITTY",
     "GOALS",
-    "PROJECTS/CLARITY TO RISE/scratch pad.md",
-    "PROJECTS/BDI/scratchpad.md",
-    "PROJECTS/BUNKER/scratch pad.md",
-    "PROJECTS/CHIC SHOOTS/scratch pad.md",
     "PROJECTS/CLOUD",
     "PROJECTS/WGU"
   ]
