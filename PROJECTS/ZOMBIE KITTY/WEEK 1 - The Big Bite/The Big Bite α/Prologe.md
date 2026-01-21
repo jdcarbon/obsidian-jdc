@@ -1,4 +1,4 @@
-Hi, my name is Joe Sims. I decided to write this so people would know the real story of what happened at Sandstone Middle School the year I was in seventh grade. ,
+Hi, my name is Joe Sims. I decided to write this so people would know the real story of what happened at Sandstone Middle School the year I was in seventh grade.
 
 At first I was going to call it a diary. But that sounds pretty boring.
 
@@ -8,3 +8,4 @@ And then I figured it out: Chronicles. That sounds scientific and epic and heroi
 
 The perfect name: Zombie Kitty Chronicles.
 
+**ILLO::Zombie Kitty Chronicles text**

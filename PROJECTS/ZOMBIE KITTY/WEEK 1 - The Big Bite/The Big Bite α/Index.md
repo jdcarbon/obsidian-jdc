@@ -9,5 +9,10 @@ longform:
     - The Scream
     - The Bite
     - The Aftermath
+    - Breakfast
+    - Steven
+    - First Day
+    - Dinner
+    - Zombie Kitty
   ignoredFiles: []
 ---

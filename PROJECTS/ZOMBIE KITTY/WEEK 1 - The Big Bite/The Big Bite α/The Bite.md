@@ -32,6 +32,8 @@ I tried to figure out something I could say to get out of it, but then Mattie sa
 
 Mattie had thrown up at least twenty times since the night before, and it sounded like he might do it again.
 
+**ILLO:Matty throwing up**
+
 "Okay Joey. You know the rules. No outside. Don't answer the door." She called out over her shoulder.
 
 "I know mom. And it's Joe, not Joey!" I yelled as she closed the door behind her.
@@ -62,6 +64,8 @@ I walked slowly, trying to be as quiet as I could. I crept around the trash bin.
 
 And there it was. A dead cat. Which was cool and gross. It must have been another animal like a rat or something that I heard. Because the cat was definitely dead. Part of it's right ear was gone and it was missing its left eye. It even looked like some of its ribs were sticking out. And it for sure wasn't breathing or moving in any way.
 
+**ILLO::Zombie Kitty**
+
 I looked around for something to move it with. Right by my foot was an old grill spatula. I picked it up. Maybe I could flip the cat over and see if it was rotting even more. Maybe there would even be maggots or something. Super cool!
 
 And then it happened. Just as the spatula was about to flip it over it jumped right at me, and bit my finger.
@@ -69,5 +73,7 @@ And then it happened. Just as the spatula was about to flip it over it jumped ri
 I dropped the spatula. "OWWWWW!" I yelled and made a kick at the cat. Which missed, almost making me fall. 
 
 I looked down at my finger. It hurt but it didn't look like it had done much damage. There was just one tiny spot of blood where one of the cat's teeth had gone through the skin. 
+
+**ILLO::Bite on finger**
 
 "Stupid cat!" I said as I headed back through the gate. Luckily the bite was small enough that mom and dad wouldn't even notice it. I would just wash it and put on some antibiotic ointment, so it wouldn't get infected.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Aftermath.md",
+                "file": "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Zombie Kitty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Aftermath"
+              "title": "Zombie Kitty"
             }
           },
           {
@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -195,8 +194,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "56ee8cd975487650",
+  "active": "96be69be8fb4edf0",
   "lastOpenFiles": [
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Dinner.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Zombie Kitty.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/First Day.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Steven.md",
+    "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Breakfast.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Aftermath.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Bite.md",
     "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/The Scream.md",
@@ -226,10 +230,7 @@
     "PROJECTS/BDI/scratchpad.md",
     "PROJECTS/BUNKER/scratch pad.md",
     "PROJECTS/CHIC SHOOTS/scratch pad.md",
-    "PROJECTS/WGU/scratch pad.md",
     "PROJECTS/CLOUD",
-    "PROJECTS/WGU",
-    "PROJECTS/Untitled.md",
-    "Welcome.md"
+    "PROJECTS/WGU"
   ]
 }

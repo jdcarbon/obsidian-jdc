@@ -6,6 +6,26 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-01-20T22:31:30.356Z",
+      "total": 2065,
+      "drafts": {
+        "PROJECTS/ZOMBIE KITTY/WEEK 1 - The Big Bite/The Big Bite α/Index.md": {
+          "total": 2065,
+          "scenes": {
+            "Prologe": 6,
+            "The Scream": 5,
+            "The Bite": 11,
+            "The Aftermath": 342,
+            "Breakfast": 280,
+            "Steven": 637,
+            "First Day": 216,
+            "Dinner": 376,
+            "Zombie Kitty": 192
+          }
+        }
+      }
+    },
+    {
       "start": "2026-01-16T17:16:39.572Z",
       "total": 1112,
       "drafts": {
